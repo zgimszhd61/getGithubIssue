@@ -2,6 +2,10 @@
 ## 使用方法
 1. 将自己的access token填写到app.py之中.
 2. 运行app.py
+3. 运行结果如下截图所示.
+
+<img width="589" alt="image" src="https://github.com/zgimszhd61/getGithubIssue/assets/114722053/474e3ab5-7860-4598-b8a9-a4e84bf043f1">
+
 
 
 ------
